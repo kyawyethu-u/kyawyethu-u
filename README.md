@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyaw Ye Thu</h1>
-<h3 align="center">A passionate mern-stack developer from Myanmar.</h3>
+<h3 align="center">I am a passionate mern-stack developer.</h3>
 <p align="left">
 </p>
 
