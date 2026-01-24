@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Kyaw Ye Thu</h1>
-<h3 align="center">I am a Full-stack developer who builds and deploys production-ready web apps
+<h3 align="left">I am a Full-stack developer who builds and deploys production-ready web apps
 Experience with Next.js, TypeScript, graphQL, PostgreSQL, real-time systems, AWS</h3>
 <p align="left">
 </p>
